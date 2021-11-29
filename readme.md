@@ -1,0 +1,1 @@
+This is a project that will help integrate and showcase my learnings on making basic html websites. Important techniques like creating lists, links, images and proper github integration should be shown.
